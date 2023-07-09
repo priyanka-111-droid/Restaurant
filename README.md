@@ -1,2 +1,4 @@
 # Restaurant
-Restaurant page made using webpack ,part of Odin project(Full stack Javascript)
+Odin project - Full stack javascript section - Restaurant page
+
+Objectives: Used webpack and learnt how to add images and styles using webpack.
